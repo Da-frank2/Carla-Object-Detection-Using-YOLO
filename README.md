@@ -30,3 +30,5 @@ This repository aims to provide YOLO object detection within the carla simulatio
 8. Issue the command `python3 Yolo_object_detection_carla.py` within the CARLA_0.9.13/PythonAPI/example folder to start pygame window as on the image above 
 
 9. The python script to generate traffic within the carla simulator is generate_traffic.py located in same folder as number 8, issue command `python3 generate_traffic.py -n 50 -w 50 --safe` to spawn 50 vehicles and 50 pedastrian.
+
+![Screenshot from 2022-04-01 16-38-05](https://user-images.githubusercontent.com/85341949/161938758-1c5fb53b-63d4-4d82-9cd3-efb9cfa53746.png)
