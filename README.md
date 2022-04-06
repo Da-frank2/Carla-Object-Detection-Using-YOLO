@@ -13,13 +13,17 @@ This repository aims to provide YOLO object detection within the carla simulatio
 
 **Installation**
 
-1. Install the linux quick start installation package CARLA simulator (version 0.9.13) [https://carla.readthedocs.io/en/latest/start_quickstart/](url)
+1. Install the linux quick start installation package [CARLA simulator](https://carla.readthedocs.io/en/latest/start_quickstart/) (version 0.9.13) 
 
 2. Clone the repository https://github.com/Da-frank2/Carla-Object-Detection-Using-YOLO.git
 
 3. Copy the files from the repository (Yolo_object_detection_carla.py,coco.names and yolov3.cfg) into CARLA_0.9.13/PythonAPI/example folder
 
-4. Download the YOLOv3 weights from [yolo.weights](https://drive.google.com/file/d/1xYasjU52whXMLT5MtF7RCPQkV66993oR/view)
+4. Download the YOLOv3 weights file [yolo.weights](https://drive.google.com/file/d/1xYasjU52whXMLT5MtF7RCPQkV66993oR/view)
+
+5. Copy the yolo.weights file into the directory CARLA_0.9.13/PythonAPI/example
+
+6. Modify the code line 
 
 4. Run ./CarlaUE4.sh to connect to the server
 
