@@ -17,7 +17,7 @@ This repository aims to provide YOLO object detection within the carla simulatio
 
 2. Clone the repository  `git clone https://github.com/Da-frank2/Carla-Object-Detection-Using-YOLO.git
 `
-3. Copy the files from the repository (`Yolo_object_detection_carla.py,coco.names and yolov3.cfg`) into CARLA_0.9.13/PythonAPI/example folder
+3. Copy the files from the cloned repository (`Yolo_object_detection_carla.py,coco.names and yolov3.cfg`) into CARLA_0.9.13/PythonAPI/example folder
 
 4. Download the `YOLOv3 weights` file [yolov3.weights](https://drive.google.com/file/d/1xYasjU52whXMLT5MtF7RCPQkV66993oR/view)
 
