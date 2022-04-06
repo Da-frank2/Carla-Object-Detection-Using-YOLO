@@ -9,7 +9,7 @@ This repository aims to provide YOLO object detection within the carla simulatio
 
 2.OpenCV 4.5.0 (build cuda and cudnn) to effectively utilize GPU
 
-3.Numpy
+3.Pygame numpy
 
 **Installation**
 
