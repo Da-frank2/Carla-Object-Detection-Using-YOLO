@@ -32,3 +32,8 @@ This repository aims to provide YOLO object detection within the carla simulatio
 9. The python script to generate traffic within the carla simulator is generate_traffic.py located in same folder as number 8, issue command `python3 generate_traffic.py -n 50 -w 50 --safe` to spawn 50 vehicles and 50 pedastrian.
 
 ![Screenshot from 2022-04-01 16-38-05](https://user-images.githubusercontent.com/85341949/161938758-1c5fb53b-63d4-4d82-9cd3-efb9cfa53746.png)
+![Screenshot from 2022-04-01 16-38-09](https://user-images.githubusercontent.com/85341949/161939728-439a9874-826a-4c93-83be-d1600fd8b5d6.png)
+
+**Note:** if you do not have a GPU available then use `pip3 install opencv-python` for CPU version of opencv
+
+Credit to the repository https://github.com/shayantaherian/Object_Detection_Carla, follow instructions on the mentioned repository to implement the same system on **Windows operating system**
